@@ -10,5 +10,5 @@ Optimization.m
   Traffic Assignment Using SUE and MNL
   
 Run file:
-Comparision.m
+SUE_MNL_comparision.m
 

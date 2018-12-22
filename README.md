@@ -1,7 +1,7 @@
 
 - Stochastic transit demand estimation
 
-with exogenous proportional assignment mapping. 
+  with exogenous proportional assignment mapping
 
 Run file:
 Optimization.m

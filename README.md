@@ -23,9 +23,15 @@
   Optimization_2_SUE.m
   
 
-4. multiple demand input 
+4. Add multiple demand input 
   -Decea network
 
   Run file:
   SUE_estimation_multidemand_2.m
+  
+5. Stochastic transit demand estimation with normal true demand 
+   -add sensor error to observed link count
+   
+   Run file:
+   SUEEstmationNormalErr_1_01312019.m
   

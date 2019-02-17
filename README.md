@@ -1,37 +1,39 @@
+Network: DeCea 1993
 
 1. Stochastic transit demand estimation
 
-  with exogenous MNL proportional assignment mapping
+  -with exogenous MNL proportional assignment mapping
+  
   -Decea network
 
-  Run file:
+  -Run file:
   Optimization_1.m
 
 2. Traffic-Assignment
-  Traffic Assignment Using SUE and MNL
-  -Decea network
+
+  -Traffic Assignment Using SUE and MNL
   
-  Run file:
+  -Run file:
   SUE_MNL_comparision.m
   
 
 3. Stochastic transit demand estimation
-  with exogeneous SUE proportional assignment mapping
-  -Decea network
   
-  Run file:
+  -with exogeneous SUE proportional assignment mapping
+  
+  -Run file:
   Optimization_2_SUE.m
   
 
 4. Add multiple demand input 
-  -Decea network
 
-  Run file:
-  SUE_estimation_multidemand_2.m
+  -Run file:
+  -SUE_estimation_multidemand_2.m
   
 5. Stochastic transit demand estimation with normal true demand 
+
    -add sensor error to observed link count
    
-   Run file:
+   -Run file:
    SUEEstmationNormalErr_1_01312019.m
   

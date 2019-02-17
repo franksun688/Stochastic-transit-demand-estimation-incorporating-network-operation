@@ -35,5 +35,5 @@ Network: DeCea 1993
    -add sensor error to observed link count
    
    -Run file:
-   SUEEstmationNormalErr_1_01312019.m
+   SUEEstmationNormalErr_3_02072019.m
   
